@@ -1,2 +1,2 @@
 # sky
-Repositorio
+Repositorio base
