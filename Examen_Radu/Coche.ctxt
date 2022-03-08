@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Coche
+comment0.text=\r\n\ Objeto\ coche\ que\ tiene\ diferentes\ campos\ heredados\ de\ Vehiculo\r\n\ @see\ Vehiculo\r\n\ @author\ \ Daniel\ Espinosa\r\n\ @author\ \ Radu\r\n\ @version\ 4/3/2022\r\n
+comment1.params=id\ km\ a\u00F1os\ puertas
+comment1.target=Coche(java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ Conctructor\ que\ crea\ un\ coche\ con\ id,\ km,\ antiguedad,puertas\r\n\ @param\ Id\ Id\ del\ coche\r\n\ @param\ Km\ Kilometraje\ del\ coche\r\n\ @param\ Antiguedad\ A\u00F1os\ del\ coche\r\n\ @param\ Puertas\ del\ \ coche\r\n\ @see\ Vehiculo\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Devuelve\ cadena\ que\ te\ dice\ cantidad\ de\ puertas\ y\ que\ es\ un\ coche\r\n\ @return\ Cadena\ \r\n\ @see\ Vehiculo\r\n
+numComments=3

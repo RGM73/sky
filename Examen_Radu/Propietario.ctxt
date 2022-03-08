@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Propietario
+comment0.text=\r\n\ Clase\ que\ se\ usa\ para\ almacenar\ por\ medio\ de\ un\ ArrayList\ los\ vehiculos\ que\ se\ tiene.\r\n\ @author\ \ Daniel\ Espinosa\r\n\ @author\ Radu\r\n\ @version\ 4/3/2022\r\n
+comment1.params=
+comment1.target=Propietario()
+comment1.text=\r\n\ Constructor\ para\ propietario\ \r\n\ Iniciamos\ la\ lista\r\n
+comment2.params=VH
+comment2.target=void\ comprarVehiculo(Vehiculo)
+comment2.text=\r\n\ Se\ a\u00F1ade\ el\ Vehiculo\ \r\n\ @param\ Vehiuculo\ A\ a\u00F1adir\ a\ la\ lista\r\n
+comment3.params=id\ km
+comment3.target=void\ correrCoche(java.lang.String,\ int)
+comment3.text=\r\n\ Comprueba\ las\ 3\ primeras\ letras\ en\ mayuscula\ o\ minuscula\ con\ el\ id\ del\ coche\r\n\ A\u00F1ade\ los\ km\ a\ los\ que\ ya\ se\ ten\u00EDan\ \r\n\ @param\ Id\ del\ coche\r\n\ @param\ km\ del\ coche\r\n
+comment4.params=id\ km
+comment4.target=void\ correrMoto(java.lang.String,\ int)
+comment4.text=\r\n\ Comprueba\ las\ 3\ primeras\ letras\ en\ mayuscula\ o\ minuscula\ con\ el\ id\ de\ la\ moto\r\n\ A\u00F1ade\ los\ km\ a\ los\ que\ ya\ se\ ten\u00EDan\ \r\n\ @param\ Id\ de\ la\ moto\r\n\ @param\ km\ de\ la\ moto\r\n
+comment5.params=
+comment5.target=Vehiculo\ masViejo()
+comment5.text=\r\n\ Compreba\ todos\ los\ vehiculos\ \r\n\ Devuelve\ el\ que\ tenga\ m\u00E1s\ antiguedad\r\n\ @return\ Vehiculo\ mas\ viejo\r\n
+comment6.params=
+comment6.target=double\ mediaKm()
+comment6.text=\r\n\ Calcula\ la\ media\ de\ km\r\n\ @return\ Media\ de\ Km\ de\ los\ vehiculos\r\n
+comment7.params=
+comment7.target=void\ mostrarVehiculos()
+comment7.text=\r\n\ Muestra\ los\ vehiculos\ diferenciando\ enre\ coches\ y\ motos\r\n
+numComments=8

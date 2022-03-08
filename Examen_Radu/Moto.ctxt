@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Moto
+comment0.text=\r\n\ Moto.java\r\n\ Definici\u00F3n\ de\ la\ clase\ Moto\r\n\ @author\ \ Daniel\ Espinosa\r\n
+comment1.params=km\ a\u00F1os\ tipo
+comment1.target=Moto(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Conctructor\ que\ crea\ una\ moto\ con\ id,\ km,\ antiguedad\ y\ tipo\r\n\ @param\ Km\ Kilometraje\ de\ la\ moto\r\n\ @param\ Antiguedad\ A\u00F1os\ de\ la\ moto\r\n\ @param\ Tipo\ de\ moto\r\n\ @see\ Vehiculo\r\n
+comment2.params=id\ km\ a\u00F1os\ tipo
+comment2.target=Moto(java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.text=\r\n\ Conctructor\ que\ crea\ una\ moto\ con\ id,\ km,\ antiguedad\ y\ tipo\r\n\ @param\ Id\ Id\ de\ la\ moto\r\n\ @param\ Km\ Kilometraje\ de\ la\ moto\r\n\ @param\ Antiguedad\ A\u00F1os\ de\ la\ moto\r\n\ @param\ Tipo\ de\ moto\r\n\ @see\ Vehiculo\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTipo()
+comment3.text=\r\n\ Devuelve\ el\ tipo\ de\ moto\r\n\ @return\ Tipo\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Devuelve\ cadena\ que\ te\ dice\ de\ que\ tipo\ es\ y\ que\ es\ una\ moto\r\n\ @return\ Cadena\ \r\n\ @see\ Vehiculo\r\n
+numComments=5
